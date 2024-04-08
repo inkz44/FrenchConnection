@@ -13,8 +13,8 @@ Le but de l'API FrenchConnection est de permettre de récupérer des information
 ## Installation
 
  - Télécharger le projet en local.
- - "npm install" pour installer les dépendances nécessaires.
- - "npm start" pour démarrer le serveur Express.js sur le port 8000.
+ - `npm install` pour installer les dépendances nécessaires.
+ - `npm start` pour démarrer le serveur Express.js sur le port 8000.
 
  ## Cas d'utilisation
 
