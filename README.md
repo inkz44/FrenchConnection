@@ -22,8 +22,9 @@ Le but de l'API FrenchConnection est de permettre de récupérer des information
 
  Remplacez `<nom_de_la_famille>` par le nom de la famille de plantes que vous souhaitez rechercher.
 
- 
+  - Exemples : "Rose family" , "Aster family" , "Olive family" , "Carrot family"
 
+ 
 
  ## Sortie de l'API
 
